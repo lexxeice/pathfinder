@@ -1,0 +1,22 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\NJ\IntelliJIDEAProjects\pathfinder\out\artifacts\pathfinder_jar\pathfinder.jar</jar>
+  <outfile>C:\Users\NJ\IntelliJIDEAProjects\pathfinder\out\artifacts\pathfinder_jar\pathfinder.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>true</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>C:\Users\NJ\IntelliJIDEAProjects\pathfinder\out\artifacts\pathfinder\bundles\pathfinder\pathfinder.ico</icon>
+  <jre>
+    <path></path>
+    <minVersion>1.8.0_192</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+  </jre>
+</launch4jConfig>
